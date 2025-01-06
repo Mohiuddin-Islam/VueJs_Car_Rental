@@ -169,7 +169,7 @@
                                 </div>
                                 <a href="#0" class="search-trigger search-icon"><i class="fa-regular fa-magnifying-glass"></i></a>
                                 <div class="header-button">
-                                    <RouterLink to="car-details.html" class="theme-btn">
+                                    <RouterLink to="/booking" class="theme-btn">
                                         Find a Car
                                     </RouterLink>
                                 </div>

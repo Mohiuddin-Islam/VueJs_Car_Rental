@@ -43,7 +43,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><RouterLink to="#">Hyundai Accent Limited</RouterLink></h4>
+                                <h4><RouterLink to="/booking">Hyundai Accent Limited</RouterLink></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -67,7 +67,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <RouterLink to="#" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
+                                <RouterLink to="/booking" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
                             </div>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><RouterLink to="#">Hyundai Accent Limited</RouterLink></h4>
+                                <h4><RouterLink to="/booking">Hyundai Accent Limited</RouterLink></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -112,7 +112,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <RouterLink to="#" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
+                                <RouterLink to="/booking" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
                             </div>
                         </div>
                     </div>
@@ -133,7 +133,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><RouterLink to="#">Hyundai Accent Limited</RouterLink></h4>
+                                <h4><RouterLink to="/booking">Hyundai Accent Limited</RouterLink></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -157,7 +157,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <RouterLink to="#" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
+                                <RouterLink to="/booking" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
                             </div>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><RouterLink to="#">Hyundai Accent Limited</RouterLink></h4>
+                                <h4><RouterLink to="/booking">Hyundai Accent Limited</RouterLink></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -202,7 +202,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <RouterLink to="#" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
+                                <RouterLink to="/booking" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
                             </div>
                         </div>
                     </div>
@@ -223,7 +223,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><RouterLink to="#">Hyundai Accent Limited</RouterLink></h4>
+                                <h4><RouterLink to="/booking">Hyundai Accent Limited</RouterLink></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -247,7 +247,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <RouterLink to="#" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
+                                <RouterLink to="/booking" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
                             </div>
                         </div>
                     </div>
@@ -268,7 +268,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><RouterLink to="#">Hyundai Accent Limited</RouterLink></h4>
+                                <h4><RouterLink to="/booking">Hyundai Accent Limited</RouterLink></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -292,7 +292,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <RouterLink to="#" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
+                                <RouterLink to="/booking" class="theme-btn bg-color w-100 text-center">Book Now <i class="fa-solid fa-arrow-right ps-1"></i></RouterLink>
                             </div>
                         </div>
                     </div>

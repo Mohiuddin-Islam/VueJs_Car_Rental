@@ -5,6 +5,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import CarlistPage from '@/views/CarlistPage.vue'
 import FaqPage from '@/views/FaqPage.vue'
 import ContactPage from '@/views/ContactPage.vue'
+import BookingPage from '@/views/BookingPage.vue'
 
 
 const router = createRouter({
@@ -38,6 +39,12 @@ const router = createRouter({
       path: '/contact',
       name: 'contact',
       component: ContactPage,
+      
+    },
+    {
+      path: '/booking',
+      name: 'booking',
+      component: BookingPage,
       
     },
     
